@@ -1,2 +1,2 @@
 # myCoding-Automation-Toolbox
-Algorithms in my toolbox to automate stuff at work 
+Algorithms in my toolbox to automate stuff at work in Python, R, and JavaScript
